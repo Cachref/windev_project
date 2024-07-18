@@ -1,0 +1,2 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+ELEVES	MailEleve	CLEN*		la rubrique MailEleve est maintenant une clé
