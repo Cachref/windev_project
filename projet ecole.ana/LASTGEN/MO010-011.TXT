@@ -1,0 +1,5 @@
+//MO010-011.TXT ANA00010 TO ANA00011
+ETABLISSEMENTS		TAR	143	nouvelle taille enregistrement : 143
+ETABLISSEMENTS	IDELEVESFR	RUB+		IDELEVESFR est une nouvelle clé
+CLASSES		TAR	135	nouvelle taille enregistrement : 135
+CLASSES	IDELEVESFR	RUB+		IDELEVESFR est une nouvelle clé
