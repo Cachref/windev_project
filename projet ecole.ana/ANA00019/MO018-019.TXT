@@ -1,0 +1,6 @@
+//MO018-019.TXT ANA00018 TO ANA00019
+MATIERES		TAR	139	nouvelle taille enregistrement : 139
+MATIERES	IDNOTES	RUB+		IDNOTES est une nouvelle clé
+NOTES		NFI		nouveau fichier
+Contrainte_ELEVESFR_NOTES		NWL	ELEVESFR (IDELEVESFR) et NOTES (IDELEVESFR)	Nouvelle liaison entre les fichiers ELEVESFR (IDELEVESFR) et NOTES (IDELEVESFR)
+Contrainte_NOTES_MATIERES		NWL	NOTES (IDNOTES) et MATIERES (IDNOTES)	Nouvelle liaison entre les fichiers NOTES (IDNOTES) et MATIERES (IDNOTES)

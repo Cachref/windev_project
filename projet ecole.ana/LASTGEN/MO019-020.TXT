@@ -1,0 +1,5 @@
+//MO019-020.TXT ANA00019 TO ANA00020
+MATIERES		TAR	131	nouvelle taille enregistrement : 131
+MATIERES	IDNOTES	RUB-		la rubrique IDNOTES est supprimée
+Contrainte_MATIERES_NOTES		NWL	MATIERES (IDMATIERES) et NOTES (IDMATIERES)	Nouvelle liaison entre les fichiers MATIERES (IDMATIERES) et NOTES (IDMATIERES)
+Contrainte_NOTES_MATIERES		DEL	NOTES (IDNOTES) et MATIERES (IDNOTES)	Liaison supprimée entre les fichiers NOTES (IDNOTES) et MATIERES (IDNOTES)
