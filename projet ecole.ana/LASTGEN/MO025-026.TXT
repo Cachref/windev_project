@@ -1,0 +1,3 @@
+//MO025-026.TXT ANA00025 TO ANA00026
+ANNONCE		TAR	342	nouvelle taille enregistrement : 342
+ANNONCE	IDELEVESFR	RUB-		la rubrique IDELEVESFR est supprimée

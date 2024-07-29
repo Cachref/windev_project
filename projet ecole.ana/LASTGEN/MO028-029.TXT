@@ -1,0 +1,4 @@
+//MO028-029.TXT ANA00028 TO ANA00029
+PROF		TAR	280	nouvelle taille enregistrement : 280
+PROF	MatiereProf	RUB+		MatiereProf est une nouvelle rubrique
+PROF	IDELEVESFR	RUB+		IDELEVESFR est une nouvelle clé
